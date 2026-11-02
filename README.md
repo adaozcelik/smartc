@@ -138,4 +138,5 @@ src/main/java/com/smartc/smartc/
 ---
 
 ## Geliştirici
+Sıla Özcan
 Ada Özçelik
